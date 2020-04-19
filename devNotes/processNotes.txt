@@ -18,3 +18,9 @@ one as well so I would urge you to consider at least doing a rough summary for y
 
 Objective of Study
 ==================
+
+
+
+For notes:
+==========
+For sull notes, check out the Study-Node repository.
