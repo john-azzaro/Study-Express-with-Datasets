@@ -23,4 +23,15 @@ Objective of Study
 
 For notes:
 ==========
-For sull notes, check out the Study-Node repository.
+For full notes, check out the Study-Node repository.
+
+
+
+Application outline:
+===================
+  1. User can seach for Pokemon by name or type.
+    1. The endpoint will be GET /pokemon
+    2. Search options for either name or type are provided as query string parameters.
+    3. When searching by name, users are searching for the name is inlcuded in a specified stirng. The search should be case insensitive.
+    4. When searching by type, users must spefocy one of the value types.
+    5. 
