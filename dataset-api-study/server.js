@@ -5,9 +5,8 @@ const app = express()
 
 app.use(morgan('dev'))
 
-app.use((req, res) => {
-  res.send('Hello, world!')
-})
+
+app,get('/types', handleGetTypes);
 
 const PORT = 8000
 
