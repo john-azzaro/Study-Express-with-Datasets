@@ -11,7 +11,7 @@ function handleGetTypes(req, res) {
   res.json(validTypes)
 }
 
-app,get('/types', handleGetTypes);
+app.get('/types', handleGetTypes);
 
 const PORT = 8000
 
